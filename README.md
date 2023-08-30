@@ -1,6 +1,6 @@
 # Real-Estate_Price_Prediction
 The Data Science Project determines the step by step process of how to build a real estate prediction website.
-Predicting real estate prices involves complex factors and is influenced by various economic, social, and market conditions. While I can provide you with some general considerations and factors that affect real estate prices, please note that I can't provide real-time data or specific predictions beyond my knowledge cutoff date in September 2021.
+Predicting real estate prices involves complex factors and is influenced by various economic, social, and market conditions. In this project, as a data scientist, I had worked on developing a linear Regression model. The dataset was fetched from Keggle.com, representing the home price data for the bangalore city. Worked on different data scince concepts like Data Cleaning, Feature Engineering, One Hot Encoding, Dimensionality Reduction, etc. The model was further exported to a pickle file and generated a python flask server determing a user interface representing the price prediction of a real-estate property on the basis of different features like sq.ft., no. of bedrooms, locations, etc.
 
 Factors affecting real estate prices include:
 
